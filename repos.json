@@ -4,5 +4,5 @@
     ],
     "commit_message": "Auto-update commit",
     "branch": "main",
-    "auto_update_interval": 110
+    "auto_update_interval": 100
 }
